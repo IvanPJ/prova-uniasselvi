@@ -2,7 +2,7 @@
 # Prova Uniasselvi
 
 ### Tecnologias
-O site foi construído com utilizando o framework Lavravel e MySQL como banco de dados.
+O site foi construído com utilizando o framework Laravel e MySQL como banco de dados.
 
 ### Requisitos
 
