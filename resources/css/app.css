@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+.page header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.teste {
+    background-image: url("../../public/assets/images/olhando_site.svg");
+    /*background-color: #cccccc;*/
+}
+
+
